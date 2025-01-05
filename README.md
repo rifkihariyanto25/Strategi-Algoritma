@@ -1,2 +1,4 @@
 # Strategi-Algoritma
 TUGAS BESAR STRATEGI ALGORITMA OPTIMASI RUTE PERJALANAN STUDY TOUR KE WILAYAH YOGYAKARTA
+
+LINK Youtube Presentasi : https://youtu.be/Jeubt8bvlLA
